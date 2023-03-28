@@ -1,0 +1,10 @@
+.carousel-indicators li {
+    background-color:rgb(203, 85, 85);
+    }
+    .carousel-indicators > .active {
+    background-color:silver;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgb(20, 195, 49);
+    }
+    
